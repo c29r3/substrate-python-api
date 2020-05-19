@@ -8,8 +8,8 @@ All code well tested on Python 3.x version, Python 2.x not supported.
 ## Overview 
 
 ## Installation
-1. install via pip
-pip install subtrate-python-api
+1. install via pip  
+`pip install -e git://github.com/juniuszhou/substrate-python-api.git#egg=substrate-python-api` 
 2. install from code
 git clone https://github.com/juniuszhou/subtrate-python-api
 python install setup.py
